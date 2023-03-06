@@ -1,7 +1,7 @@
 <h1> manish ranan </h1>
 
-<h1 align="center">Hi 👋, I'm Kailash Sharma</h1>
-<h3 align="center">MAD Developer (Modern Android Developer) - A true Tech Fan. Innovation is outcome of a habit not a random act. To invent Tomorrow is a great achievement than the past</h3>
+<h1 align="center">Hi 👋, I'm Manish Ranjan</h1>
+<h3 align="center">Soul Developer (Android Developer) - A true Tech Fan. Innovation is outcome of a habit not a random act. To invent Tomorrow is a great achievement than the past</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thekaailashsharma" alt="thekaailashsharma" /></a> </p>
 
