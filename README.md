@@ -1,2 +1,1 @@
-# Manish-Ranjan
-My personal repository
+Hi 👋, I'm Manish Ranjan
