@@ -1,7 +1,7 @@
 <h1> MANISH RANJAN </h1>
 
 <!--
-**manishsubah/manishsubah**  is a _special_ repository because its 'README.md' (this file) appears on your GitHub profile.  -->
+**manishsubah/manishsubah**  is a _special_ repository because its 'README.md' (this file) appears on your GitHub profile. 
 
 <h1 align="center">Hi 👋, I'm Manish Ranjan</h1>
 <h3 align="center">Android Developer - A Coding Enthusiast who's exploring his potential!</h3>
@@ -53,4 +53,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishsubah&show_icons=true&locale=en&layout=compact" alt="manishsubah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishsubah&show_icons=true&locale=en" alt="manishsubah" /></p>
+
+ -->
 
